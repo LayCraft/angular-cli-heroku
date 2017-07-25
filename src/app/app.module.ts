@@ -5,7 +5,6 @@ import { HttpModule } from '@angular/http';
 import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
-import { SubrouteComponent } from './subroute/subroute.component';
 
 import { ROUTES } from './app.routes';
 import { HomeComponent } from './home/home.component';
@@ -13,7 +12,6 @@ import { HomeComponent } from './home/home.component';
 @NgModule({
   declarations: [
     AppComponent,
-    SubrouteComponent,
     HomeComponent
   ],
   imports: [
