@@ -1,0 +1,29 @@
+<header class="navbar navbar-toggleable navbar-light bg-faded">
+  <nav class="container">
+    <div class="d-flex justify-content-between">
+      <a class="navbar-brand" href="#">
+        <img src="/assets/logo.svg" width="" height="30" alt="Curtis LayCraft Logo">
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
+    <div class="collapse navbar-collapse show" id="mainNav">
+      <ul class="nav navbar-nav mr-auto">
+        <li [routerLinkActive]="['active']" class="nav-item nav-link active hidden-sm-up">
+          <a [routerLink]="['/']" href="#">Home</a>
+        </li>
+        <!--<li [routerLinkActive]="['active']" class="nav-item nav-link">-->
+          <!--<a [routerLink]="['resume']" class="nav-link" href="#">Résumé</a>-->
+        <!--</li>-->
+        <!--<li [routerLinkActive]="['active']" class="nav-item nav-link">-->
+          <!--<a [routerLink]="['resume']" class="nav-link" href="#">Résumé</a>-->
+        <!--</li>-->
+      </ul>
+      <!--<form class="form-inline my-2 my-lg-0">-->
+        <!--Other corner.-->
+      <!--</form>-->
+    </div>
+  </nav>
+</header>
