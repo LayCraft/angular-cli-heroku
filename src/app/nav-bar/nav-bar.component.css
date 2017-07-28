@@ -1,1 +1,5 @@
 /*.nav-link {margin-left: 30px}*/
+.navbar {
+  background: #F7FFFE;
+  border-bottom: 2px white solid;
+}

@@ -1,5 +1,5 @@
 .jumbotron {
-  /*background-color: #EECA28;*/
+  background: #EBFFFB;
 }
 
 .jumbotron hr {
@@ -9,3 +9,5 @@
 .instructions {
   float: none;
 }
+
+
