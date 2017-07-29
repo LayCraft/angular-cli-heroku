@@ -1,5 +1,7 @@
 .jumbotron {
-  background: #EBFFFB;
+  /*background-image: url("../../assets/img/computerlook.png");*/
+  background-size: 50%;
+  background-color: #EBFFFB;
 }
 
 .jumbotron hr {
