@@ -1,11 +1,21 @@
+/*
+turquoise 00E3BB
+yellow F0B50C
+pink F00CD3
+green 00A109
+red E2090A
+blue 000B9B
+dark 000807
+*/
+
 .jumbotron {
-  /*background-image: url("../../assets/img/computerlook.png");*/
   background-size: 50%;
-  background-color: #EBFFFB;
+  background-color: #00E3BB;
 }
 
 .jumbotron hr {
-  border-color: #999;
+  border: dotted #F00CD3 3px;
+  border-bottom: none;
 }
 
 .instructions {
@@ -16,4 +26,5 @@
 #profile {
   width: 100%;
   border-radius: 50%;
+  border: dotted white 6px;
 }
