@@ -11,6 +11,7 @@ dark 000807
 .jumbotron {
   background-size: 50%;
   background-color: #00E3BB;
+  border-radius: 0;
 }
 
 .jumbotron hr {

@@ -1,3 +1,13 @@
+/*
+turquoise 00E3BB
+yellow F0B50C
+pink F00CD3
+green 00A109
+red E2090A
+blue 000B9B
+dark 000807
+*/
 footer {
-  background: #F7FFFE;
+  background: #F0B50C ;
+  border-top: 3px #F00CD3 solid;
 }
