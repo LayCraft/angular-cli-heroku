@@ -1,0 +1,7 @@
+
+/*TODO: this card class can be applied globally but it it is not working globally from styles.css Figure out how to make wider css bootstrap theme changes.*/
+.card {
+  border: solid 2px #F00CD3;
+  border-radius: 0.25rem;
+  margin: 1rem 0;
+}
