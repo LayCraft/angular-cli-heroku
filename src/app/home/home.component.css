@@ -12,7 +12,7 @@ dark 000807
   background-color: #00E3BB;
   border-radius: 0;
 }
-.jumbotron hr {
+hr {
   border: dotted #F00CD3 3px;
   border-bottom: none;
 }
