@@ -5,3 +5,19 @@
   border-radius: 0.25rem;
   margin: 1rem 0;
 }
+.jumbotron {
+  background-size: 50%;
+  background-color: #00E3BB;
+  border-radius: 0;
+}
+.card hr {
+  border: dotted #00E3BB 3px;
+  border-bottom: none;
+  margin: 10px 0 20px 0;
+}
+.border-bottom-color {
+  border-bottom: 2px solid #F00CD3;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  font-weight: bolder;
+}

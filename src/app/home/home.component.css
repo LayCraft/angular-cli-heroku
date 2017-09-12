@@ -7,13 +7,11 @@ red E2090A
 blue 000B9B
 dark 000807
 */
-
 .jumbotron {
   background-size: 50%;
   background-color: #00E3BB;
   border-radius: 0;
 }
-
 .jumbotron hr {
   border: dotted #F00CD3 3px;
   border-bottom: none;

@@ -3,4 +3,8 @@
   background-size: 180px;
   height: 100%;
 }
-
+.jumbotron {
+  background-size: 50%;
+  background-color: #00E3BB;
+  border-radius: 0;
+}
