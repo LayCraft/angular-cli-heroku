@@ -45,12 +45,5 @@ hr {
 .btn-primary:hover{
   color: #ffffff;
   background-color: #F0B50C;
-
 }
-/*TODO: style global links for bootstrap*/
-/*a:link, a:visited, a:active{*/
-  /*color: #F00CD3;*/
-/*}*/
-/*.btn-primary:hover{*/
-  /*color: #F0B50C;*/
-/*}*/
+
