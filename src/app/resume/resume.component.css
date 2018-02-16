@@ -21,3 +21,12 @@
   padding-bottom: 5px;
   font-weight: bolder;
 }
+.btn-primary:link, .btn-primary:visited, .btn-primary:active{
+  background-color: #F00CD3;
+
+  border: solid #ffffff 2px;
+}
+.btn-primary:hover{
+  color: #ffffff;
+  background-color: #F0B50C;
+}
